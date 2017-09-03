@@ -1,0 +1,23 @@
+{
+  "name": "nodeproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-request-id": "^1.4.0",
+    "http": "0.0.0",
+    "oauth2orize": "^1.10.0",
+    "passport": "^0.4.0",
+    "passport-oauth2-resource-owner-password": "^1.0.0",
+    "promise": "^8.0.1",
+    "request": "^2.81.0",
+    "soap": "^0.21.0"
+  }
+}
